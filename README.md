@@ -34,7 +34,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone <repository-url>
+git clone <https://github.com/NNlnwza/Elephant.git>
 cd elephant-ai-identifier
 ```
 
@@ -181,3 +181,4 @@ def extract_features_from_image(self, image_path):
 5. ใช้งานได้ทันที!
 
 **ขอให้โชคดีในการแข่งขัน! 🚀🐘**
+
